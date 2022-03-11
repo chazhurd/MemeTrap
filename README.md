@@ -1,4 +1,5 @@
 ## Welcome to the Meme Trap
+![HereForTheFire](https://user-images.githubusercontent.com/52184026/157775651-e1478f92-dcb8-4ec0-bef7-dba43c7b26b4.png)
 
 You can use the [editor on GitHub](https://github.com/chazhurd/MemeTrap/edit/main/README.md) to maintain and preview the content for this website in Markdown files.
 
